@@ -19,5 +19,6 @@ Clase principal con el menú, con las opciones deseadas, como: registrar artista
 - Realizaremos la integración con la API de ChatGPT para buscar información sobre un determinado artista.
 
 ## 📷 Capturas de pantalla
-![Imagen de WhatsApp 2024-05-20 a las 23 54 44_f31a9513](https://github.com/DavidVF7/Desafio-Java-y-Spring-persistiendo-datos-artistas-y-canciones/assets/103916971/b82a34a3-52c4-4624-8dd5-3283034636a9)
-![Imagen de WhatsApp 2024-05-20 a las 23 54 44_537d2197](https://github.com/DavidVF7/Desafio-Java-y-Spring-persistiendo-datos-artistas-y-canciones/assets/103916971/3fcc9f33-62a7-4346-bdd0-70712f0737a3)
+
+![captura pantalla 1](https://github.com/DavidVF7/Desafio-Java-y-Spring-persistiendo-datos-artistas-y-canciones/assets/103916971/094f3526-3970-486b-8a9a-f600596ad9ad)
+![captura pantalla 2](https://github.com/DavidVF7/Desafio-Java-y-Spring-persistiendo-datos-artistas-y-canciones/assets/103916971/7eef780d-ee12-4a2e-8b3b-8a674f997f7a)
