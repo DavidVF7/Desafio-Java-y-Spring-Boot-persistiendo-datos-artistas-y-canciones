@@ -18,6 +18,10 @@ Clase principal con el menú, con las opciones deseadas, como: registrar artista
 - Practicaremos consultas derivadas y JPQL para verificar si el artista ya está registrado y buscar canciones por un determinado artista;
 - Realizaremos la integración con la API de ChatGPT para buscar información sobre un determinado artista.
 
+## 👨‍💻 Desarrollado por
+
+David Velasco Fierros
+
 ## 📷 Capturas de pantalla
 
 ![captura pantalla 1](https://github.com/DavidVF7/Desafio-Java-y-Spring-persistiendo-datos-artistas-y-canciones/assets/103916971/094f3526-3970-486b-8a9a-f600596ad9ad)
